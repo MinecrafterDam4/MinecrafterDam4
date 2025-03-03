@@ -1,16 +1,20 @@
-## Hi there 👋
+# About Me
 
-<!--
-**MinecrafterDam4/MinecrafterDam4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Hello! I'm Steve, this is my GitHub profile! I don't use GitHub often but if i do ill post my stuff here.
 
-Here are some ideas to get you started:
+## Interests
+- **Programming Languages:** Java, Python, C, C++, ASM (Give me mercy)
+- **Computers** Old aah computers, Android Devices, Calculators (Especially TI calculators)
+- **Operating Systems** UNIX, Debian, Windows, MacOS, Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contact
+Feel free to reach out to me:
+- **Email:** [steve@stevesworkshop.org](mailto:steve@stevesworkshop.org)
+- **LinkedIn:** [Steve's LinkedIn](https://www.linkedin.com/in/steve-peto-monge-8b824630a)
+
+## Website
+I encourage you to have a look at my website!
+- **Website Link:** [stevesworkshop.org](https://stevesworkshop.org)
+- **My blog:** [blog.stevesworkshop.org](https://blog.stevesworkshop.org)
