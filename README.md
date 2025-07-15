@@ -6,7 +6,7 @@ Hello! I'm Steve, this is my GitHub profile! I don't use GitHub often but if i d
 ## Interests
 - **Programming Languages:** Java, Python, C, C++, ASM (Give me mercy)
 - **Computers** Old aah computers, Android Devices, Calculators (Especially TI calculators)
-- **Operating Systems** UNIX, Debian, Windows, MacOS, Android
+- **Operating Systems** UNIX, UNIX-like, Debian, Windows, MacOS, Android
 
 
 ## Contact
